@@ -1,0 +1,5 @@
+{
+    "circleci": {
+        "sshRepositoryURL": "git@github.com:mancusoa74/test_remote_build_app.git"
+    }
+}
